@@ -1,0 +1,50 @@
+.offset {
+    padding-left: 30px;
+    font-style: italic;
+    color: royalblue;
+}
+
+.Something {
+    padding-bottom: 50px;
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+    padding: 3;
+    border-spacing: 3;
+}
+
+th {
+    background-color: lightgrey;
+}
+
+td {
+    width: 16.6%
+}
+
+.container {
+    border: 1px solid black;
+    position: relative;
+    padding-left: 50px;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.background {
+    float: left;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+body {
+    background-image: url('background.jpg');
+    background-repeat: repeat;
+    width: 90%;
+    float: right;
+}
+
+img {
+    float: right;
+    padding-right: 15%;
+}
