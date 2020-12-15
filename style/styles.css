@@ -35,11 +35,10 @@ td {
     position: absolute;
     left: 0px;
     top: 0px;
+    background-repeat: repeat;
 }
 
 body {
-    background-image: url('background.jpg');
-    background-repeat: repeat;
     width: 90%;
     float: right;
 }
